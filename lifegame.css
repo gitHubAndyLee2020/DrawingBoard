@@ -1,0 +1,13 @@
+#board td {
+  height: 18px;
+  width: 18px;
+  border: 1.5px solid #87CEEB;
+}
+
+#board {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  border: 2px #02075d solid;
+}
